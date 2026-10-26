@@ -1,4 +1,4 @@
-# [Your first name]'s Section
+# natali jawad's Section
 
 My section of the Web Design class site.
 
