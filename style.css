@@ -9,3 +9,23 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body {
+    background-color: plum;
+}
+p{
+    font-size: 16px
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    border: 5px soild rgba(255, 228, 196, 0.979);
+}
+h1 {
+    border: 5px solid white
+}
+a:link {
+    color:antiquewhite;
+}
+a:visited {
+color:beige;
