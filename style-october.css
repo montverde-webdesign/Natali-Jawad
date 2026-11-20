@@ -1,0 +1,46 @@
+/* ==========================================================
+   My section's styles
+   Every page in this section uses this one file.
+
+   Pages in this main folder link to it with:
+       <link rel="stylesheet" href="style.css">
+   Pages inside warm-ups, classwork, and projects use ../ to go up a folder:
+       <link rel="stylesheet" href="../style.css">
+
+   We'll write styles here starting Monday.
+   ========================================================== */
+body {
+    background-color: plum;
+}
+p{
+    font-size: 16px
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    border: 5px soild rgba(255, 228, 196, 0.979);
+}
+h1 {
+    border: 5px solid white
+}
+a:link {
+    color:antiquewhite;
+}
+a:visited 
+color:beige;
+/* Color boxes for my style guide */
+.palette {
+  list-style: none;
+  padding: 0;
+}
+
+.swatch {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1px solid #999999;
+  vertical-align: middle;
+  margin-right: 8px;
+}
